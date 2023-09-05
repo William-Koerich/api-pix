@@ -1,0 +1,11 @@
+{
+  "name":"wdev/pix",
+  "autoload":{
+    "psr-4":{
+      "App\\Pix\\": "app/Pix/"
+    }
+  },
+  "require": {
+    "mpdf/qrcode": "^1.0"
+  }
+}
